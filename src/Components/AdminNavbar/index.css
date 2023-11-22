@@ -1,0 +1,6 @@
+.nav-open{
+    display: none;
+}
+.nav-close{
+    display: block;
+}
